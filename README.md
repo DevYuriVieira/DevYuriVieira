@@ -10,7 +10,7 @@ My goal is to evolve into a developer capable of designing robust architectures,
 ---
 
 ## 🌐 Most Used Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuriVieira&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuriVieira&layout=compact&langs_count=8&theme=dark&hide=html,css&v=1"/>
 
 ---
 
@@ -54,3 +54,4 @@ My goal is to evolve into a developer capable of designing robust architectures,
 <a href="https://www.linkedin.com/in/yuri-vieira-615131188/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
