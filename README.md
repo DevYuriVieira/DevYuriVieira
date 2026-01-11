@@ -10,8 +10,10 @@ My goal is to evolve into a developer capable of designing robust architectures,
 ---
 
 ## 🌐 Most Used Languages
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuriVieira&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=86400"/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevYuriVieira&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=DevYuriVieira"
+ />
 
 ---
 
