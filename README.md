@@ -1,7 +1,7 @@
-<h1 align="center">Yuri Vieira</h1>
+<h1 align="center">Yuri Vieira Teixeira</h1>
 
 <h3 align="center">
-Full-Stack Developer • Java • Spring Boot • React
+Java/Spring Boot • React/TypeScript • Python/Django
 </h3>
 
 ---
