@@ -75,7 +75,6 @@ Passionate about clean code, problem-solving, and delivering reliable software t
 
 ### 🧪 Testing
 
-![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### 🔧 Tools & Cloud
